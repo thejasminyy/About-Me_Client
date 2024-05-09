@@ -95,7 +95,7 @@ body {
 }
 .introduction-wrap > .photo-wrap > img {
   width: 12rem;
-  height: 12rem;
+  height: 11.5rem;
   border-radius: 50%;
   background: linear-gradient(to bottom, #e8e6e7, #cdc7c7);
   box-shadow: 5px 5px 10px #666;
